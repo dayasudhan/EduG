@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73919909962",
+    "firebase_url": "https://edug-f52d0.firebaseio.com",
+    "project_id": "edug-f52d0",
+    "storage_bucket": "edug-f52d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73919909962:android:e9060eb36721875a4c16b3",
+        "android_client_info": {
+          "package_name": "com.kuruvatech.EduG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73919909962-sgjim7olm91k1u87kpsstn8fjf0csfgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqIAXBSNCDlOKcZA40yKebpio94r0RzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73919909962-sgjim7olm91k1u87kpsstn8fjf0csfgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
